@@ -1,0 +1,1 @@
+worker: java Servicecenter.js
